@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 
-setInterval(tick, 1000);
+setInterval(tick, 30000);
 
 function tick () {
     return (
